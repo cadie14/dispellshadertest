@@ -51,7 +51,7 @@ Material:
     - _QueueOffset: 0
     - _Reflect: 2.24
     m_Colors:
-    - _Color: {r: 0.7962264, g: 0.84364206, b: 1, a: 0}
+    - _Color: {r: 0.8723402, g: 0, b: 1, a: 0}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 0}
     - _ReflectColor: {r: 0.9622642, g: 0.17611244, b: 0.17611244, a: 0}
   m_BuildTextureStacks: []
